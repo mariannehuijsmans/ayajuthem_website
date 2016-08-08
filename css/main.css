@@ -122,7 +122,7 @@ COLORS
 body {
   background-color: #fff;
   color: #000;
-  background-image: url(/img/beach_tishosem3.jpg);
+  background-image: url('../img/beach_tishosem3.jpg');
   background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
   background-position: center center;  
